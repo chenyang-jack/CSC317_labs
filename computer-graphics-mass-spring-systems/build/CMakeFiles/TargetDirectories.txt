@@ -1,0 +1,16 @@
+/home/noviorlu/Desktop/computer-graphics-mass-spring-systems/build/CMakeFiles/rebuild_cache.dir
+/home/noviorlu/Desktop/computer-graphics-mass-spring-systems/build/CMakeFiles/masssprings_sparse.dir
+/home/noviorlu/Desktop/computer-graphics-mass-spring-systems/build/CMakeFiles/lib.dir
+/home/noviorlu/Desktop/computer-graphics-mass-spring-systems/build/CMakeFiles/masssprings_dense.dir
+/home/noviorlu/Desktop/computer-graphics-mass-spring-systems/build/CMakeFiles/edit_cache.dir
+/home/noviorlu/Desktop/computer-graphics-mass-spring-systems/build/glad/CMakeFiles/rebuild_cache.dir
+/home/noviorlu/Desktop/computer-graphics-mass-spring-systems/build/glad/CMakeFiles/edit_cache.dir
+/home/noviorlu/Desktop/computer-graphics-mass-spring-systems/build/glad/CMakeFiles/glad.dir
+/home/noviorlu/Desktop/computer-graphics-mass-spring-systems/build/glfw/CMakeFiles/rebuild_cache.dir
+/home/noviorlu/Desktop/computer-graphics-mass-spring-systems/build/glfw/CMakeFiles/edit_cache.dir
+/home/noviorlu/Desktop/computer-graphics-mass-spring-systems/build/glfw/src/CMakeFiles/rebuild_cache.dir
+/home/noviorlu/Desktop/computer-graphics-mass-spring-systems/build/glfw/src/CMakeFiles/edit_cache.dir
+/home/noviorlu/Desktop/computer-graphics-mass-spring-systems/build/glfw/src/CMakeFiles/glfw.dir
+/home/noviorlu/Desktop/computer-graphics-mass-spring-systems/build/stb_image/CMakeFiles/rebuild_cache.dir
+/home/noviorlu/Desktop/computer-graphics-mass-spring-systems/build/stb_image/CMakeFiles/edit_cache.dir
+/home/noviorlu/Desktop/computer-graphics-mass-spring-systems/build/stb_image/CMakeFiles/igl_stb_image.dir

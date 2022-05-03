@@ -1,0 +1,3 @@
+/home/noviorlu/Desktop/computer-graphics-ray-casting/build/CMakeFiles/rebuild_cache.dir
+/home/noviorlu/Desktop/computer-graphics-ray-casting/build/CMakeFiles/edit_cache.dir
+/home/noviorlu/Desktop/computer-graphics-ray-casting/build/CMakeFiles/raycasting.dir

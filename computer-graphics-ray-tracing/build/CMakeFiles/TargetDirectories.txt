@@ -1,0 +1,4 @@
+/home/noviorlu/Desktop/computer-graphics-ray-tracing/build/CMakeFiles/rebuild_cache.dir
+/home/noviorlu/Desktop/computer-graphics-ray-tracing/build/CMakeFiles/edit_cache.dir
+/home/noviorlu/Desktop/computer-graphics-ray-tracing/build/CMakeFiles/hw2.dir
+/home/noviorlu/Desktop/computer-graphics-ray-tracing/build/CMakeFiles/raytracing.dir

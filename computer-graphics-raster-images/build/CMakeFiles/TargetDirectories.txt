@@ -1,0 +1,3 @@
+/home/noviorlu/Desktop/computer-graphics-raster-images/build/CMakeFiles/rebuild_cache.dir
+/home/noviorlu/Desktop/computer-graphics-raster-images/build/CMakeFiles/edit_cache.dir
+/home/noviorlu/Desktop/computer-graphics-raster-images/build/CMakeFiles/raster.dir

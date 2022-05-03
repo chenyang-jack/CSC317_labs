@@ -1,0 +1,12 @@
+#include "PointLight.h"
+
+void PointLight::direction(
+  const Eigen::Vector3d & q, Eigen::Vector3d & d, double & max_t) const
+{
+  ////////////////////////////////////////////////////////////////////////////
+  // Add your code here:
+  auto temp = this->p-q;
+  max_t = temp.norm();
+  d = temp/max_t;
+  ////////////////////////////////////////////////////////////////////////////
+}

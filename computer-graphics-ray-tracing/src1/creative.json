@@ -1,0 +1,187 @@
+{
+  "camera": {
+    "type": "perspective",
+    "focal_length": 2,
+    "eye": [11,2,3],
+    "up": [-1,0,2.7071067812],
+    "look": [-0.9071067812,0,-0.1071067812],
+    "height": 1,
+    "width": 1.7777777778
+  },
+  "materials": [
+    {
+      "name": "Lambertian gray",
+      "ka": [0.2, 0.2, 0.2],
+      "kd": [0.8, 0.8, 0.8],
+      "ks": [0.1,0.1,0.1],
+      "km": [0.1,0.1,0.1],
+      "phong_exponent": 20
+    },
+    {
+      "name": "sun",
+      "ka": [1,0.2,0.2],
+      "kd": [1,0.2,0.2],
+      "ks": [1,0.2,0.2],
+      "km": [0.05,0.05,0.05],
+      "phong_exponent": 1000
+    },
+    {
+      "name": "Mercury",
+      "ka": [0.3, 0.4, 0.5],
+      "kd": [0.3, 0.4, 0.5],
+      "ks": [0.3, 0.4, 0.5],
+      "km": [0.05,0.05,0.05],
+      "phong_exponent": 2000
+    },
+    {
+      "name": "Venus",
+      "ka": [0.4, 0.3, 0.15],
+      "kd": [0.4, 0.3, 0.15],
+      "ks": [0.4, 0.3, 0.15],
+      "km": [0.1,0.1,0.1],
+      "phong_exponent": 2000
+    },
+    {
+      "name": "Earth",
+      "ka": [0.2,0.36,0.8],
+      "kd": [0.2,0.36,0.8],
+      "ks": [0.2,0.36,0.8],
+      "km": [0.05,0.05,0.05],
+      "phong_exponent": 2000
+    },
+    {
+      "name": "Moon",
+      "ka": [0.2, 0.2, 0.2],
+      "kd": [0.4, 0.4, 0.4],
+      "ks": [0.4, 0.4, 0.4],
+      "km": [0.05,0.05,0.05],
+      "phong_exponent": 2000
+    },
+    {
+      "name": "Mars",
+      "ka": [0.396078,0.105882,0.139216],
+      "kd": [0.396078,0.105882,0.139216],
+      "ks": [0.396078,0.105882,0.139216],
+      "km": [0.05,0.05,0.05],
+      "phong_exponent": 200
+    },
+    {
+      "name": "Jupiter",
+      "ka": [0.66078,0.505882,0.239216],
+      "kd": [0.66078,0.505882,0.239216],
+      "ks": [0.66078,0.505882,0.239216],
+      "km": [0.05,0.05,0.05],
+      "phong_exponent": 2000
+    },
+    {
+      "name": "Saturn",
+      "ka": [0.96078,0.705882,0.739216],
+      "kd": [0.96078,0.705882,0.439216],
+      "ks": [0.96078,0.705882,0.439216],
+      "km": [0.05,0.05,0.05],
+      "phong_exponent": 2000
+    },
+    {
+      "name": "Uranus",
+      "ka": [0.06078,0.3505882,0.439216],
+      "kd": [0.06078,0.3505882,0.439216],
+      "ks": [0.06078,0.3505882,0.439216],
+      "km": [0.05,0.05,0.05],
+      "phong_exponent": 200
+    },
+    {
+      "name": "Neptune",
+      "ka": [0.14,0.15,0.939216],
+      "kd": [0.14,0.15,0.939216],
+      "ks": [0.14,0.15,0.939216],
+      "km": [0.05,0.05,0.05],
+      "phong_exponent": 2000
+    }
+  ],
+  "lights":[
+    {
+      "type": "point",
+      "position": [0.3,9,15],
+      "color": [0.7,0.7,0.7]
+    },
+    {
+      "type": "directional",
+      "direction": [-0.3,0.2,-0.1],
+      "color": [0.8,0.8,0.8]
+    },
+    {
+      "type": "point",
+      "position": [9,-0.3,15],
+      "color": [0.8,0.8,0.8]
+    }
+  ],
+
+  "objects": [
+    {
+      "type": "plane",
+      "material": "Lambertian gray",
+      "point": [0,0,-1],
+      "normal": [0,0,1]
+    },
+    {
+      "type": "sphere",
+      "material": "Venus",
+      "radius": 0.6,
+      "center": [1.5,-0.3,1]
+    },
+    {
+      "type": "sphere",
+      "material": "Mercury",
+      "radius": 0.4,
+      "center": [2.3,-0.7,1]
+    },
+    {
+      "type": "sphere",
+      "material": "sun",
+      "radius": 2,
+      "center": [3,-2.5,1]
+    },
+    {
+      "type": "sphere",
+      "material": "Earth",
+      "radius": 0.6,
+      "center": [1,0.2,1]
+    },
+    {
+      "type": "sphere",
+      "material": "Moon",
+      "radius": 0.1,
+      "center": [1.35,0.8,1.35]
+    },
+    {
+      "type": "sphere",
+      "material": "Mars",
+      "radius": 0.45,
+      "center": [0,0.6,1]
+    },
+    {
+      "type": "sphere",
+      "material": "Jupiter",
+      "radius": 1.3,
+      "center": [-2.1,1,1]
+    },
+    {
+      "type": "sphere",
+      "material": "Saturn",
+      "radius": 1.2,
+      "center": [-4.2,1.8,1]
+    },
+    {
+      "type": "sphere",
+      "material": "Uranus",
+      "radius": 1.4,
+      "center": [-7,2.8,1]
+    },
+    {
+      "type": "sphere",
+      "material": "Neptune",
+      "radius": 1.6,
+      "center": [-11,4,1]
+    }
+  ]
+}

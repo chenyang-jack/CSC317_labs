@@ -1,0 +1,67 @@
+[
+{
+  "directory": "/home/noviorlu/Desktop/computer-graphics-ray-tracing/build",
+  "command": "/bin/c++   -I/home/noviorlu/Desktop/computer-graphics-ray-tracing/include -isystem /home/noviorlu/Desktop/computer-graphics-ray-tracing/eigen -isystem /home/noviorlu/Desktop/computer-graphics-ray-tracing/json   -fPIC -std=c++11 -g   -o CMakeFiles/hw2.dir/src/Plane.cpp.o -c /home/noviorlu/Desktop/computer-graphics-ray-tracing/src/Plane.cpp",
+  "file": "/home/noviorlu/Desktop/computer-graphics-ray-tracing/src/Plane.cpp"
+},
+{
+  "directory": "/home/noviorlu/Desktop/computer-graphics-ray-tracing/build",
+  "command": "/bin/c++   -I/home/noviorlu/Desktop/computer-graphics-ray-tracing/include -isystem /home/noviorlu/Desktop/computer-graphics-ray-tracing/eigen -isystem /home/noviorlu/Desktop/computer-graphics-ray-tracing/json   -fPIC -std=c++11 -g   -o CMakeFiles/hw2.dir/src/Sphere.cpp.o -c /home/noviorlu/Desktop/computer-graphics-ray-tracing/src/Sphere.cpp",
+  "file": "/home/noviorlu/Desktop/computer-graphics-ray-tracing/src/Sphere.cpp"
+},
+{
+  "directory": "/home/noviorlu/Desktop/computer-graphics-ray-tracing/build",
+  "command": "/bin/c++   -I/home/noviorlu/Desktop/computer-graphics-ray-tracing/include -isystem /home/noviorlu/Desktop/computer-graphics-ray-tracing/eigen -isystem /home/noviorlu/Desktop/computer-graphics-ray-tracing/json   -fPIC -std=c++11 -g   -o CMakeFiles/hw2.dir/src/Triangle.cpp.o -c /home/noviorlu/Desktop/computer-graphics-ray-tracing/src/Triangle.cpp",
+  "file": "/home/noviorlu/Desktop/computer-graphics-ray-tracing/src/Triangle.cpp"
+},
+{
+  "directory": "/home/noviorlu/Desktop/computer-graphics-ray-tracing/build",
+  "command": "/bin/c++   -I/home/noviorlu/Desktop/computer-graphics-ray-tracing/include -isystem /home/noviorlu/Desktop/computer-graphics-ray-tracing/eigen -isystem /home/noviorlu/Desktop/computer-graphics-ray-tracing/json   -fPIC -std=c++11 -g   -o CMakeFiles/hw2.dir/src/TriangleSoup.cpp.o -c /home/noviorlu/Desktop/computer-graphics-ray-tracing/src/TriangleSoup.cpp",
+  "file": "/home/noviorlu/Desktop/computer-graphics-ray-tracing/src/TriangleSoup.cpp"
+},
+{
+  "directory": "/home/noviorlu/Desktop/computer-graphics-ray-tracing/build",
+  "command": "/bin/c++   -I/home/noviorlu/Desktop/computer-graphics-ray-tracing/include -isystem /home/noviorlu/Desktop/computer-graphics-ray-tracing/eigen -isystem /home/noviorlu/Desktop/computer-graphics-ray-tracing/json   -fPIC -std=c++11 -g   -o CMakeFiles/hw2.dir/src/first_hit.cpp.o -c /home/noviorlu/Desktop/computer-graphics-ray-tracing/src/first_hit.cpp",
+  "file": "/home/noviorlu/Desktop/computer-graphics-ray-tracing/src/first_hit.cpp"
+},
+{
+  "directory": "/home/noviorlu/Desktop/computer-graphics-ray-tracing/build",
+  "command": "/bin/c++   -I/home/noviorlu/Desktop/computer-graphics-ray-tracing/include -isystem /home/noviorlu/Desktop/computer-graphics-ray-tracing/eigen -isystem /home/noviorlu/Desktop/computer-graphics-ray-tracing/json   -fPIC -std=c++11 -g   -o CMakeFiles/hw2.dir/src/viewing_ray.cpp.o -c /home/noviorlu/Desktop/computer-graphics-ray-tracing/src/viewing_ray.cpp",
+  "file": "/home/noviorlu/Desktop/computer-graphics-ray-tracing/src/viewing_ray.cpp"
+},
+{
+  "directory": "/home/noviorlu/Desktop/computer-graphics-ray-tracing/build",
+  "command": "/bin/c++   -I/home/noviorlu/Desktop/computer-graphics-ray-tracing/include -isystem /home/noviorlu/Desktop/computer-graphics-ray-tracing/eigen -isystem /home/noviorlu/Desktop/computer-graphics-ray-tracing/json   -fPIC -std=c++11 -g   -o CMakeFiles/hw2.dir/src/write_ppm.cpp.o -c /home/noviorlu/Desktop/computer-graphics-ray-tracing/src/write_ppm.cpp",
+  "file": "/home/noviorlu/Desktop/computer-graphics-ray-tracing/src/write_ppm.cpp"
+},
+{
+  "directory": "/home/noviorlu/Desktop/computer-graphics-ray-tracing/build",
+  "command": "/bin/c++   -I/home/noviorlu/Desktop/computer-graphics-ray-tracing/include -isystem /home/noviorlu/Desktop/computer-graphics-ray-tracing/eigen -isystem /home/noviorlu/Desktop/computer-graphics-ray-tracing/json   -fPIC -std=c++11 -g   -o CMakeFiles/raytracing.dir/src/DirectionalLight.cpp.o -c /home/noviorlu/Desktop/computer-graphics-ray-tracing/src/DirectionalLight.cpp",
+  "file": "/home/noviorlu/Desktop/computer-graphics-ray-tracing/src/DirectionalLight.cpp"
+},
+{
+  "directory": "/home/noviorlu/Desktop/computer-graphics-ray-tracing/build",
+  "command": "/bin/c++   -I/home/noviorlu/Desktop/computer-graphics-ray-tracing/include -isystem /home/noviorlu/Desktop/computer-graphics-ray-tracing/eigen -isystem /home/noviorlu/Desktop/computer-graphics-ray-tracing/json   -fPIC -std=c++11 -g   -o CMakeFiles/raytracing.dir/src/PointLight.cpp.o -c /home/noviorlu/Desktop/computer-graphics-ray-tracing/src/PointLight.cpp",
+  "file": "/home/noviorlu/Desktop/computer-graphics-ray-tracing/src/PointLight.cpp"
+},
+{
+  "directory": "/home/noviorlu/Desktop/computer-graphics-ray-tracing/build",
+  "command": "/bin/c++   -I/home/noviorlu/Desktop/computer-graphics-ray-tracing/include -isystem /home/noviorlu/Desktop/computer-graphics-ray-tracing/eigen -isystem /home/noviorlu/Desktop/computer-graphics-ray-tracing/json   -fPIC -std=c++11 -g   -o CMakeFiles/raytracing.dir/src/blinn_phong_shading.cpp.o -c /home/noviorlu/Desktop/computer-graphics-ray-tracing/src/blinn_phong_shading.cpp",
+  "file": "/home/noviorlu/Desktop/computer-graphics-ray-tracing/src/blinn_phong_shading.cpp"
+},
+{
+  "directory": "/home/noviorlu/Desktop/computer-graphics-ray-tracing/build",
+  "command": "/bin/c++   -I/home/noviorlu/Desktop/computer-graphics-ray-tracing/include -isystem /home/noviorlu/Desktop/computer-graphics-ray-tracing/eigen -isystem /home/noviorlu/Desktop/computer-graphics-ray-tracing/json   -fPIC -std=c++11 -g   -o CMakeFiles/raytracing.dir/src/raycolor.cpp.o -c /home/noviorlu/Desktop/computer-graphics-ray-tracing/src/raycolor.cpp",
+  "file": "/home/noviorlu/Desktop/computer-graphics-ray-tracing/src/raycolor.cpp"
+},
+{
+  "directory": "/home/noviorlu/Desktop/computer-graphics-ray-tracing/build",
+  "command": "/bin/c++   -I/home/noviorlu/Desktop/computer-graphics-ray-tracing/include -isystem /home/noviorlu/Desktop/computer-graphics-ray-tracing/eigen -isystem /home/noviorlu/Desktop/computer-graphics-ray-tracing/json   -fPIC -std=c++11 -g   -o CMakeFiles/raytracing.dir/src/reflect.cpp.o -c /home/noviorlu/Desktop/computer-graphics-ray-tracing/src/reflect.cpp",
+  "file": "/home/noviorlu/Desktop/computer-graphics-ray-tracing/src/reflect.cpp"
+},
+{
+  "directory": "/home/noviorlu/Desktop/computer-graphics-ray-tracing/build",
+  "command": "/bin/c++   -I/home/noviorlu/Desktop/computer-graphics-ray-tracing/include -isystem /home/noviorlu/Desktop/computer-graphics-ray-tracing/eigen -isystem /home/noviorlu/Desktop/computer-graphics-ray-tracing/json   -fPIC -std=c++11 -g   -o CMakeFiles/raytracing.dir/main.cpp.o -c /home/noviorlu/Desktop/computer-graphics-ray-tracing/main.cpp",
+  "file": "/home/noviorlu/Desktop/computer-graphics-ray-tracing/main.cpp"
+}
+]
